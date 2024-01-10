@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Ansible, Jenkins**
+- 🌱 I’m currently learning **Docker, Jenkins**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-prajjwal.netlify.app/](https://portfolio-prajjwal.netlify.app/)
 
